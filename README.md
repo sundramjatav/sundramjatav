@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working at **Aspaints Ally** (Nov 2024 – Present)
+- 🔭 Currently working at **Nexachain core pvt ltd** (Nov 2024 – Present)
 - 💼 Previously worked at **Boostup Digital** (Nov 2023 – Nov 2024)
 - 🌱 Currently learning **Next.js, TypeScript, System Design**
 - 👯 Open to collaborate on **Open Source Projects** and **Real-World SaaS Tools**
